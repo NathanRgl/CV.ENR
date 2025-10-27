@@ -1,5 +1,9 @@
 <img src="https://github.com/NathanRgl/CV.ENR/blob/main/photocv.jpg" width="250">
-#  **Présentation**
+
+
+ **Présentation**
+ 
+  
   **EROS-NATHAN RIGUIDEL** 
   
   *Ancien fusilier marin avec 9 ans d’expérience en protection et sécurité de défense. En reconversion vers l’administration systèmes et réseaux. Actuellement en formation et à la recherche d’une alternance dès septembre 2026.*
