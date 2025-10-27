@@ -1,4 +1,4 @@
-<img src="https://github.com/NathanRgl/CV.ENR/blob/main/photocv.jpg"  align="right" width="250">
+<img src="https://github.com/NathanRgl/CV.ENR/blob/main/photocv.jpg"  align="right" width="150">
 
 
  **Présentation**
