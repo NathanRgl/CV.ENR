@@ -6,13 +6,17 @@
   
   **EROS-NATHAN RIGUIDEL** 
   
-  *Ancien fusilier marin avec 9 ans d’expérience en protection et sécurité de défense. En reconversion vers l’administration systèmes et réseaux. Actuellement en formation et à la recherche d’une alternance dès septembre 2026.*
+  *Ancien fusilier marin avec 9 ans d’expérience en protection et sécurité de défense. 
+  En reconversion vers l’administration systèmes et réseaux. Actuellement en formation 
+  et à la recherche d’une alternance dès septembre 2026.*
 
 
 
 
   
 ## **Formation**
+
+
 |    **2024**    |                    **2025**                    |              **Septembre 2026**              |
 | :------------: | :--------------------------------------------: | :------------------------------------------: |
 | *Baccalauréat* | *Technicien supérieur systèmes et réseaux<br>* | *Licence Administrateur systèmes et réseaux* |
